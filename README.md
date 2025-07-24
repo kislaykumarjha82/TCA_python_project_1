@@ -2,9 +2,9 @@
 # Telco Customer Churn Prediction
 
 Welcome to the **Telco Customer Churn Analysis** project! This repository contains scripts and data designed to explore, analyze, and model customer churn using a real-world telecom dataset.
-<img width="797" height="582" alt="Screenshot 2025-07-24 172634" src="https://github.com/user-attachments/assets/7a4cc13c-6cda-449f-8443-cf8b9450af30" />
-<img width="1114" height="863" alt="Screenshot 2025-07-24 172643" src="https://github.com/user-attachments/assets/028de33e-02c9-4811-814d-bc4801a561a5" />
 
+<img width="1114" height="863" alt="Screenshot 2025-07-24 172643" src="https://github.com/user-attachments/assets/028de33e-02c9-4811-814d-bc4801a561a5" />
+<img width="797" height="582" alt="Screenshot 2025-07-24 172634" src="https://github.com/user-attachments/assets/7a4cc13c-6cda-449f-8443-cf8b9450af30" />
 
 
 ## Project Overview
